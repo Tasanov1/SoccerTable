@@ -1,0 +1,88 @@
+Week 1:
+Tigers 1-1 Shadows
+Animals 3-0 Titans
+Pirates 3-0 Phoenix
+Centurion 1-1 Legion
+Saints 3-1 Jokers
+Royals 1-3 Arystan
+ 
+Week 2:
+Tigers 1-1 Titans
+Animals 2-0 Phoenix
+Pirates 0-2 Legion
+Centurion 0-1 Jokers
+Saints 2-4 Arystan
+Royals 2-0 Shadows
+ 
+Week 3:
+Tigers 0-0 Phoenix
+Animals 4-0 Legion
+Pirates 0-2 Jokers
+Centurion 0-2 Arystan
+Saints 4-1 Royals
+Titans 1-0 Shadows
+ 
+Week 4:
+Tigers 2-0 Legion
+Animals 2-1 Jokers
+Pirates 1-2 Arystan
+Centurion 4-0 Royals
+Saints 2-0 Titans
+Phoenix 4-0 Shadows
+ 
+Week 5:
+Tigers 2-2 Jokers
+Animals 1-2 Arystan
+Pirates 3-1 Royals
+Centurion 3-1 Saints
+Legion 0-0 Shadows
+Phoenix 3-2 Titans
+ 
+Week 6:
+Tigers 2-1 Arystan
+Animals 1-1 Royals
+Pirates 0-0 Saints
+Centurion 3-1 Shadows
+Jokers 0-0 Titans
+Legion 0-1 Phoenix
+ 
+Week 7:
+Tigers 0-2 Royals
+Animals 4-0 Saints
+Pirates 0-0 Centurion
+Arystan 2-2 Phoenix
+Jokers 6-2 Shadows
+Legion 0-0 Titans
+ 
+Week 8:
+Tigers 3-0 Saints
+Animals 1-2 Centurion
+Pirates 3-1 Titans
+Royals 4-0 Phoenix
+Arystan 2-2 Shadows
+Jokers 2-1 Legion
+ 
+Week 9:
+Tigers 2-1 Centurion
+Animals 1-0 Pirates
+Saints 0-1 Shadows
+Royals 1-1 Titans
+Arystan 3-1 Legion
+Jokers 4-3 Phoenix
+ 
+Week 10:
+Tigers 0-0 Pirates
+Animals 0-0 Shadows
+Centurion 4-2 Phoenix
+Saints 0-0 Legion
+Royals 0-0 Jokers
+Arystan 2-1 Titans
+ 
+Week 11:
+Tigers 1-1 Animals
+Pirates 1-1 Shadows
+Centurion 1-2 Titans
+Saints 0-1 Phoenix
+Royals 1-1 Legion
+Arystan 3-2 Jokers
+ 
